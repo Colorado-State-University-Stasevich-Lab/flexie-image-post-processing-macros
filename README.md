@@ -8,7 +8,7 @@ Use this macro for *FULL-SPEED* FLEXIE imaging imaged with an *armed* piezo
 This code post-processes a three-dimensional video. 
 The end result is that .tiff plus a MaxZ .tiff open in the program. 
 
-*NOTE: input your frames, channels, and slices variables for your specific imaging conditions. *
+*NOTE: input your frames, channels, and slices variables for your specific imaging conditions*.
 
 
 #### FLEXIE_PP_unarmed-piezo.ijm 
